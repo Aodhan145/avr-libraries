@@ -4,6 +4,6 @@ Instantiate class
 MCP3301 dac(vRef, &csPORT, csPIN);
 '''
 e.g
-'''cpp
+'''C++
 MCP3301 dac(4.096, &PORTB, (1<<1));
 '''
