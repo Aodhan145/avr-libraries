@@ -8,8 +8,11 @@
 
 #ifndef __MCP4921_H__
 #define __MCP4921_H__
+#define byte uint8_t
 
-#include <Arduino.h>
+#include <avr/io.h>
+#include <stdint.h>
+
 class MCP4921
 {
 //variables
