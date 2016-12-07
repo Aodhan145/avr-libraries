@@ -1,2 +1,6 @@
 # avr-libraries
-* Collection of classes written for avr parts
+Parts
+	* ADCs
+			* MCP3301
+	* DACs
+			* MCP4921
