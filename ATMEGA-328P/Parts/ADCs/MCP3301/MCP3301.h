@@ -8,8 +8,9 @@
 
 #ifndef __MCP3301_H__
 #define __MCP3301_H__
-
-#include <Arduino.h>
+#define byte uint8_t
+#include <avr/io.h>
+#include <stdint.h>
 
 class MCP3301
 {
