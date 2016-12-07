@@ -1,6 +1,6 @@
 #MCP3301 Usage
 Instantiate class
-'''cpp
+'''C++
 MCP3301 dac(vRef, &csPORT, csPIN);
 '''
 e.g
